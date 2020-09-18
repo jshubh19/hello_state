@@ -1,0 +1,9 @@
+{
+    "domain": "hello_state",
+    "name": "hello_state",
+    "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/hello_state/",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["awesomelights==1.2.3"],
+    "config_flow": true
+  }
